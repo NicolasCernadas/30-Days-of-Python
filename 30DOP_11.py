@@ -107,3 +107,11 @@ def total_added(*args):
 added_numbers = total_added(1,2,3,4,5,6,7,8,9,10)
 print(added_numbers)
 
+#Default and Arbitrary parameters:
+def team_generator(team = "No selected team", *args):
+    print(team)
+    for i in args:
+        print(' ', i)
+
+team = "First Team:"
+team_generator(team, 'Nicolas', 'Jorge', 'Carlos')
