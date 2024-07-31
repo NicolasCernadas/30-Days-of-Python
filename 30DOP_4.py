@@ -1,5 +1,4 @@
 #Capitalize first string letter
-
 name = 'nicolas'
 frase = 'This\tis\ta\tnew\tfrase'
 print(name.capitalize())
