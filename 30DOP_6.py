@@ -1,3 +1,4 @@
+#Tuples
 new_tuple = ('banana', 'melon', 'watermelon','pineapple', 'apple')
 #indexed item
 first_item = new_tuple[0]
