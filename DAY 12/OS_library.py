@@ -1,10 +1,7 @@
 #Documentación del módulo os: https://docs.python.org/3/library/os.html
 
-#Documentación del módulo sys: https://docs.python.org/3/library/sys.html
-
 #Documentación del módulo platform: https://docs.python.org/3/library/platform.html
 
-# import the module
 import os
 
 #trace to where python project actually is 
