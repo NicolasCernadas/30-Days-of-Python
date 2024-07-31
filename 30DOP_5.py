@@ -1,4 +1,4 @@
-#
+#Lists
 fruits = ['orange', 'apple', 'lemon']
 print(f'Fruits: {fruits}')
 print(f'Amount of fruits in the list: {len(fruits)}')
