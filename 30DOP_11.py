@@ -2,6 +2,9 @@
 '''
     FUNCTIONS RECIBE ARGUMENTS, THEY WORK WITH PARAMETERS
     def function(PARAMETERS):
+        \'''
+        brief description
+        \'''
         code
         code
         return code
