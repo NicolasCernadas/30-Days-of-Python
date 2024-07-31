@@ -1,5 +1,4 @@
 #Comparisons
-
 if not(2+2 == 4) is False:
     print('Rigth')
 else:
