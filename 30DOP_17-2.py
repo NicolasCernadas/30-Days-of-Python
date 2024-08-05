@@ -70,6 +70,7 @@ for index, i in enumerate(countries):
 students_list = ['name', 'surname', 'class', 'grade']
 student_8989 = ['Carlos', 'Llamazares', '25A', '9th']
 listed_student_8989 = dict()
+#here, 't' stands for 'students_list' items, and 'i' for 'student_8989' items
 for i, t in zip(student_8989, students_list):
     listed_student_8989[t] = i
 
